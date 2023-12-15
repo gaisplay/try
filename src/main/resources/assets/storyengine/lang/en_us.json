@@ -1,0 +1,10 @@
+{
+  "gui.storyengine.dialog_window.label_variant_1": "Вариант 1",
+  "gui.storyengine.dialog_window.button_variant_1": "Вариант 1",
+  "gui.storyengine.dialog_window.button_variant_3": "Вариант 3",
+  "gui.storyengine.dialog_window.button_variant_2": "Вариант 2",
+  "item.storyengine.npc_spawn_egg": "NPC Spawn Egg",
+  "gui.storyengine.dialog_window.label_variant_3": "Вариант 3",
+  "gui.storyengine.dialog_window.label_variant_2": "Вариант 2",
+  "entity.storyengine.npc": "NPC"
+}
