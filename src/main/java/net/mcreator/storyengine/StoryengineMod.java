@@ -33,6 +33,7 @@ import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
 
+
 @Mod("storyengine")
 public class StoryengineMod {
 	public static final Logger LOGGER = LogManager.getLogger(StoryengineMod.class);
